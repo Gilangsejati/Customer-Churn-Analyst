@@ -45,8 +45,5 @@ Tujuan utama dari dashboard adalah untuk memahami performa penjualan berdasarkan
 ## 🛠️ Tools yang Digunakan
 - **Google Looker Studio** → Visualisasi dashboard interaktif.  
 - **Excel / CSV** → Penyimpanan data transaksi.  
-- **SQL** (opsional) → Query agregasi data.  
+- **SQL** → Query agregasi data.  
 
----
-
-## 📂 Struktur Repository
